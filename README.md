@@ -53,6 +53,9 @@ This document contains a list of tools and platforms that allow for GEOINT analy
 - **Use case**: Socioeconomic analysis of urban areas.
 
 # how use:
+
+This flowchart outlines the process of selecting and using the various GEOINT tools in your repository. You can include this markdown in the relevant part of your documentation to help users navigate the available tools efficiently.
+
 # GEOINT Tools Usage Workflow
 
 ```mermaid
